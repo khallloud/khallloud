@@ -1,0 +1,10 @@
+{
+    "greeting": "Bonjour !",
+    "settings": "Paramètres",
+    "notification": "Notification",
+    "language": "Langue",
+    "editProfile": "Modifier le profil",
+    "changePassword": "Changer le mot de passe",
+    "logout": "Déconnexion"
+  }
+  
